@@ -435,6 +435,7 @@ header {
 
 .footer__link {
     font-weight: var(--fw-bold);
+    text-align: center;
 }
 
 .footer__link:hover,
