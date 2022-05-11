@@ -264,7 +264,7 @@ header {
         display: grid;
         width: min-content;
         margin: 0 auto;
-        grid-column-gap: 1em;
+        grid-column-gap: 2em;
         grid-template-areas: 
             "img title"
             "img subtitle";
@@ -435,7 +435,6 @@ header {
 
 .footer__link {
     font-weight: var(--fw-bold);
-    text-align: center;
 }
 
 .footer__link:hover,
